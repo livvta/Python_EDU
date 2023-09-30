@@ -65,11 +65,11 @@
 5. 一旦功能函数执行完毕，控制权返回到 main() 函数，继续循环，等待用户的下一个选择。
 6. 用户可以根据需要多次选择不同的功能，或者在任何时候选择退出程序。如果用户选择退出程序，exit() 函数将结束程序的运行。
 ### **三、程序框图**
-![main](C:\Users\harris\OneDrive\repo\Python_EDU\Assignment_#3_分支和循环\IMG\main.png)
+![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/main.png)
 
-![](Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.002.png)
+![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/divisibi.png)
 
-![](Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.003.png)
+![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/divisibi_check.png)
 
 
 ### **四、运行结果截图**

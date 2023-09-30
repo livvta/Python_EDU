@@ -67,7 +67,7 @@
 ### **三、程序框图**
 ![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/main.png)
 
-![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/divisibi.png)
+![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/division.png)
 
 ![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/divisibi_check.png)
 
@@ -75,10 +75,10 @@
 ### **四、运行结果截图**
 **功能：**
 
-![](Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.004.png)
+![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.004.png)
 
 **错误处理：**
 
-![](Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.005.png)
+![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.005.png)
 
-![](Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.006.png)
+![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.006.png)

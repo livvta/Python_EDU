@@ -47,7 +47,7 @@
 
    如果输入的整数能够被2、3、5整除，函数会构建描述字符串，指示哪些数字能够整除它。
 
-   如果输入的整数不能被2、3、5整除，函数将构建一个相应的错误消息并打印，然后继续循环。
+   如果输入的整数不能被2、3、5整除，函数将打印提示，然后退出循环。
 
    如果输入无效（非整数字符），函数将捕获 ValueError 异常并打印错误消息，然后继续循环。
 
@@ -65,20 +65,20 @@
 5. 一旦功能函数执行完毕，控制权返回到 main() 函数，继续循环，等待用户的下一个选择。
 6. 用户可以根据需要多次选择不同的功能，或者在任何时候选择退出程序。如果用户选择退出程序，exit() 函数将结束程序的运行。
 ### **三、程序框图**
-![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/main.png)
+![main](Assignment_3/IMG/main.png)
 
-![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/division.png)
+![main](Assignment_3/IMG/division.png)
 
-![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/divisibi_check.png)
+![main](Assignment_3/IMG/divisibi_check.png)
 
 
 ### **四、运行结果截图**
 **功能：**
 
-![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.004.png)
+![main](Assignment_3/IMG/1.png)
 
 **错误处理：**
 
-![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.005.png)
+![main](Assignment_3/IMG/2.png)
 
-![main](https://github.com/livvta/Python_EDU/blob/main/Assignment_%233_%E5%88%86%E6%94%AF%E5%92%8C%E5%BE%AA%E7%8E%AF/IMG/Aspose.Words.d82f176a-6c7d-4aa2-96e2-77f2d5922f93.006.png)
+![main](Assignment_3/IMG/3.png)

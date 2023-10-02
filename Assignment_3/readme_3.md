@@ -54,20 +54,20 @@
 5. 一旦功能函数执行完毕，控制权返回到 main() 函数，继续循环，等待用户的下一个选择。
 6. 用户可以根据需要多次选择不同的功能，或者在任何时候选择退出程序。如果用户选择退出程序，exit() 函数将结束程序的运行。
 ### **三、程序框图**
-![main](Assignment_3/IMG/main.png)
+![main](IMG/main.png)
 
-![main](Assignment_3/IMG/division.png)
+![main](IMG/division.png)
 
-![main](Assignment_3/IMG/divisibi_check.png)
+![main](IMG/divisibi_check.png)
 
 
 ### **四、运行结果截图**
 **功能：**
 
-![main](Assignment_3/IMG/1.png)
+![main](IMG/1.png)
 
 **错误处理：**
 
-![main](Assignment_3/IMG/2.png)
+![main](IMG/2.png)
 
-![main](Assignment_3/IMG/3.png)
+![main](IMG/3.png)
